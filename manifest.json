@@ -1,7 +1,7 @@
 {
-  "name": "PublicLurker-CG",
-  "version": "7.5.3",
-  "description": "PublicLurker Client release by DeadFish7 for Miniblox - Crazy Games Edition ~heythereu",
+  "name": "BlitzX",
+  "version": "1.0.0",
+  "description": "BlitzX",
   "manifest_version": 3,
   "permissions": ["declarativeNetRequest", "scripting", "tabs"],
   "host_permissions": ["https://miniblox.online/*"],
